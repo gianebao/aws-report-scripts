@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.331.0",
+    "uuid": "^3.3.2"
+  },
+  "name": "aws-stuff",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gian Carlo Val Ebao",
+  "license": "ISC"
+}

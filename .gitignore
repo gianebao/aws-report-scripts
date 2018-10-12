@@ -1,0 +1,11 @@
+aws-roles.json
+
+*.csv
+*.log
+
+node_modules
+package-lock.json
+
+.DS_store
+
+
